@@ -1,0 +1,613 @@
+﻿Language=ภาษา
+Talent=ความสามารถ
+\n游玩提示：\r\n*请注意，存档功能仅保存<color\=#8a0000>该回合最初</color>的状态！\r\n一周目通关后，将解锁 <color\=#8a0000>收藏室</color> 和 <color\=#8a0000>多周目继承</color> 功能。\n\nBUG反馈群：432033390\n<size\=17>官方Q群  8群：532189090\r   7群：818364512\r   6群：654450899\r   5群：790548037\r \n官方Q群  4群：817267421\r   3群：701756315\r   2群：616634727\r   1群：925806395       </size><size\=18>\n\nSteam云存档目前不可用，若换机器游玩，请复制本路径下所有文件以<color\=#8a0000>备份存档</color>：\r\n按键盘Win+R，输入AppData：\n\r进入\\LocalLow\\EggHatcher\\VolcanoPrincess</size>=\n游玩提示：\r\n*请注意，存档功能仅保存<color\=#8a0000>该回合最初</color>的状态！\r\n一周目通关后，将解锁 <color\=#8a0000>收藏室</color> 和 <color\=#8a0000>多周目继承</color> 功能。\n\nBUG反馈群：432033390\n<size\=17>官方Q群  8群：532189090\r   7群：818364512\r   6群：654450899\r   5群：790548037\r \n官方Q群  4群：817267421\r   3群：701756315\r   2群：616634727\r   1群：925806395       </size><size\=18>\n\nSteam云存档目前不可用，若换机器游玩，请复制本路径下所有文件以<color\=#8a0000>备份存档</color>：\r\n按键盘Win+R，输入AppData：\n\r进入\\LocalLow\\EggHatcher\\VolcanoPrincess</size>
+V 2.01.05=เวอร์ชัน 2.01.05 [Discord.GG/NeedSleep Thai Translate]
+Setting=ตั้งค่า
+(Click empty space to close)=(คลิกที่พื้นที่ว่างเพื่อปิด)
+Tutorial=บทช่วยสอน
+Space: Next dialogue=พื้นที่: บทสนทนาถัดไป
+FullScreen=เต็มหน้าจอ
+1920x1080=1920x1080
+L Ctrl: Forward=ปุ่ม Ctrl ซ้าย: ไปข้างหน้า
+Screen\nResolution=ความละเอียด\nขนาดหน้าจอ
+Sync Steam Achievements=ซิงค์ความสำเร็จบน Steam
+Space=พื้นที่
+Music\nSFX\nVoice=เสียงดนตรี\nเสียงเอฟเฟค\nเสียงพากย์
+Ctrl=Ctrl
+Be careful: No matter what time to 'SAVE' in one turn,\nthe Savedata will only keep the status of <color\=#8a0000>the beginning of this turn</color>!\n\nThe <color\=#8a0000>Gallery</color> and the <color\=#8a0000>End Game Bonus</color> will be unlocked after\nthe first playthrough. Enjoy!\n\n<size\=18>Steam Cloud unavilable, please <color\=#8a0000>backup the savedata</color> by copying all the files\nunder the following route:\nPress WIN+R and insert AppData, enter \\LocalLow\\EggHatcher\\VolcanoPrincess</size>=ระวัง: ไม่ว่าจะ 'บันทึก' เวลาไหนในหนึ่งเทิร์น, \nข้อมูลที่บันทึกจะเก็บเฉพาะสถานะของ <color\=#8a0000>ตอนเริ่มต้นของเทิร์นนี้</color> เท่านั้น!\n\n<color\=#8a0000>แกลเลอรี่</color> และ <color\=#8a0000>โบนัสจบเกม</color> จะถูกปลดล็อคหลังจาก\nเล่นจบครั้งแรก. สนุกให้เต็มที่!\n\n<size\=18>Steam Cloud ไม่สามารถใช้ได้, กรุณา <color\=#8a0000>สำรองข้อมูลที่บันทึก</color> โดยการคัดลอกไฟล์ทั้งหมด\nตามเส้นทางดังต่อไปนี้:\nกด WIN+R และพิมพ์ AppData, จากนั้นเข้า \\LocalLow\\EggHatcher\\VolcanoPrincess</size>
+Submit Bug=ส่งข้อผิดพลาด
+Join Discord=เข้าร่วม Discord
+Welcome to Volcano Kingdom!=ยินดีต้อนรับสู่ราชอาณาจักรภูผาเพลิง!
+Back=ย้อนกลับ
+Rose=โรส
+Plan=วางแผน
+Lv.1=ระดับ 1
+爱慕者 Lv.1\n<size\=17>20人</size>=爱慕者 Lv.1\n<size\=17>20人</size>
+Exercises=การออกกำลังกาย
++STR =+STR
+Patience:=ความอดทน:
+Summer Volcano Year=ฤดูร้อนแห่งอาณาจักรภูผาเพลิง
+Volcano International Painting Competition Award-winning Painters=จิตรกรผู้ชนะรางวัลการแข่งขันวาดภาพนานาชาติแห่งอาณาจักรภูผาเพลิง
+Special Thanks=ขอบคุณพิเศษ
+Volcano Kingdom Fashion Design Master\n\nVolcano Kingdom Special Residence\n\nVolcano Kingdom Newspaper Guest Author=อาจารย์ออกแบบแฟชั่นแห่งอาณาจักรภูผาเพลิง\n\nที่พักพิเศษแห่งอาณาจักรภูผาเพลิง\n\nนักเขียนรับเชิญหนังสือพิมพ์แห่งอาณาจักรภูผาเพลิง
+BGM=ดนตรีประกอบ
+Voiceover=เสียงพากย์
+Co-ops=เพื่อนร่วมงาน
+Programmer=โปรแกรมเมอร์
+Visual Art=ทัศนศิลป์
+Producer=ผู้ผลิต
+Publishing Team=ทีมการเผยแพร่
+Production Team=ทีมผลิต
+Thank you for help us build the now and the future of Volcano Kingdom!=ขอบคุณที่ช่วยพัฒนาอาณาจักรภูผาเพลิงในปัจจุบันและอนาคต!
+Volcano Kingdom\nSponsor=ผู้สนับสนุน\nราชอาณาจักรภูผาเพลิง
+IPPOSAUSE\r    Loki是个小天才\r\r    nanajoe\r\r    POPIPOPOPO\r\r    yaoybps\r\r    yumo\r\r    阿末末\r\r    蝴蝶劫\r\r    坏坏年糕\r\r    酒精灯泡\r\r    苦糖果\r\r    是个胖橘子呀\r\r    兔年旺旺\r\r    砂糖兔九\r\r    未来没有头\r\r    一杯西兰咖\r\r    重阳TOMATO=IPPOSAUSE\r Loki是个小天才\r\r nanajoe\r\r POPIPOPOPO\r\r yaoybps\r\r yumo\r\r 阿末末\r\r 蝴蝶劫\r\r 坏坏年糕\r\r 酒精灯泡\r\r 苦糖果\r\r 是个胖橘子呀\r\r 兔年旺旺\r\r 砂糖兔九\r\r 未来没有头\r\r 一杯西兰咖\r\r 重阳TOMATO
+雉水  薙狐一广  中断清醒  中二病也要耍帅  中国美味蘑菇  中立不做忠利国  中子星  终末歌姬信仰者  终幕症候群  柊喵不好吃  柊叶小町  钟丁雨  钟离屁股翘又紧  钟戎  钟小明  終活女子  鈡山梟  众筹让drb开除百濑  重度睡眠依赖症  重建用的阿帕  重青  重阳TOMATO  周东郎  周柯宇老婆  周天子  周一  周知川  粥本粥  粥尔巴乔夫  咒泉之乡  昼眠信  昼恹  皱趴趴  珠颈斑鸠  猪 耳朵香香  猪猪屁  竹冬  竹鹤烟雾  竹鹫  竹林七贤  竹林竹铃  竹笙_gnLvz5Y  竹水微澜  竹月&冰七铃  竹中桑与玉玉症  逐影XL  逐月照君_ngrpn9D  渚霏  渚薰我是你的狗  助人为乐刘森派  助申  注意精神卫生  祝虾被鸡吃掉吧  转身の离开  转生成为小志的 贝斯  篆音。  桩桩  壮士你真美  追梦狐狸  追彧之  椎名千鹤  椎名响子  椎名柚叶  锥原冰  坠梦云空  桌咂GreenmyLee?  桌子 下垫砖块  灼_V7P1XlX  灼洲  卓清翌  酌青杯  琢石  濯汐  孜然燒烤_Alex  子过  子鸿哥哥  子玖  子君子  子娘不会APEX坐大牢  子戊戊戊  子语遥  子鸢飞雪  子月初四  梓  梓森  梓叶晨曦  梓音  梓钰  紫虎一笑  紫荆百合  紫黎酱锵锵  紫色  紫色芋头   紫薯焗虾球ヽ  紫娑梓婳  紫堂太太  紫轩晓月  紫轩一直都在  紫言  紫羽陌殇叹明皇  紫云樱  自瞄悬浮霰弹丸  自滅型戰術人形002  自然_N  自深深处。  自信刘星  自元  字母酱酱酱酱酱_  棕熊先生  粽粽粽  走（全世界最晚开学版  奏鸣曲奏  诅咒的调料包  最爱回锅肉  最爱农耕神白面的椿  最酷的瑟瑞安大人  最酷的瑟瑞安大人  最靓的仔  最美的仙女莙  最最可爱的兔桑umi  醉春风   醉里挑灯看他  醉醉力二  左岸堇色  佐仓雨音  佐久间大介健康祈愿  作业狂魔  做一只快乐读书的猪  做正事?? =雉水  薙狐一广  中断清醒  中二病也要耍帅  中国美味蘑菇  中立不做忠利国  中子星  终末歌姬信仰者  终幕症候群  柊喵不好吃  柊叶小町  钟丁雨  钟离屁股翘又紧  钟戎  钟小明  終活女子  鈡山梟  众筹让drb开除百濑  重度睡眠依赖症  重建用的阿帕  重青  重阳TOMATO  周东郎  周柯宇老婆  周天子  周一  周知川  粥本粥  粥尔巴乔夫  咒泉之乡  昼眠信  昼恹  皱趴趴  珠颈斑鸠  猪 耳朵香香  猪猪屁  竹冬  竹鹤烟雾  竹鹫  竹林七贤  竹林竹铃  竹笙_gnLvz5Y  竹水微澜  竹月&冰七铃  竹中桑与玉玉症  逐影XL  逐月照君_ngrpn9D  渚霏  渚薰我是你的狗  助人为乐刘森派  助申  注意精神卫生  祝虾被鸡吃掉吧  转身の离开  转生成为小志的 贝斯  篆音。  桩桩  壮士你真美  追梦狐狸  追彧之  椎名千鹤  椎名响子  椎名柚叶  锥原冰  坠梦云空  桌咂GreenmyLee?  桌子 下垫砖块  灼_V7P1XlX  灼洲  卓清翌  酌青杯  琢石  濯汐  孜然燒烤_Alex  子过  子鸿哥哥  子玖  子君子  子娘不会APEX坐大牢  子戊戊戊  子语遥  子鸢飞雪  子月初四  梓  梓森  梓叶晨曦  梓音  梓钰  紫虎一笑  紫荆百合  紫黎酱锵锵  紫色  紫色芋头   紫薯焗虾球ヽ  紫娑梓婳  紫堂太太  紫轩晓月  紫轩一直都在  紫言  紫羽陌殇叹明皇  紫云樱  自瞄悬浮霰弹丸  自滅型戰術人形002  自然_N  自深深处。  自信刘星  自元  字母酱酱酱酱酱_  棕熊先生  粽粽粽  走（全世界最晚开学版  奏鸣曲奏  诅咒的调料包  最爱回锅肉  最爱农耕神白面的椿  最酷的瑟瑞安大人  最酷的瑟瑞安大人  最靓的仔  最美的仙女莙  最最可爱的兔桑umi  醉春风   醉里挑灯看他  醉醉力二  左岸堇色  佐仓雨音  佐久间大介健康祈愿  作业狂魔  做一只快乐读书的猪  做正事??
+No=ไม่
+Yes=ใช่
+Start a new game?\n(Will <color\=#0002a9>Overwrite Autosave</color> )=เริ่มเกมใหม่หรือไม่?\n(จะ <color=#0002a9>เขียนทับการบันทึกอัตโนมัติ</color> )
+mo8713445875    mo4151165636    外星排泄物大王    兮兮温泉蛋\n明日那女士（幻梦集团hr）ForeverFree    温云    卑鄙的外乡人双双\nJoeycoco    熊猫鬼    重阳TOMATO    懒神某雨    鸽子不咕咕    241先生\n矔了个疏  白焰寻星    椰酥说女鹅做得好    岚风GS    MzK_17=mo8713445875 mo4151165636 外星排泄物大王 兮兮温泉蛋\n明日那女士（幻梦集团hr）ForeverFree 温云 卑鄙的外乡人双双\nJoeycoco 熊猫鬼 重阳TOMATO 懒神某雨 鸽子不咕咕 241先生\n矔了个疏 白焰寻星 椰酥说女鹅做得好 岚风GS MzK_17
+*Only data at the beginning of each month is stored.=*ข้อมูลจะถูกบันทึกเฉพาะตอนต้นเดือนเท่านั้น
+Save 8=บันทึก 8
+Save 4=บันทึก 4
+Save 2=บันทึก 2
+Summer Feb.=ฤดูร้อน ก.พ.
+Summer Mar.=ฤดูร้อน มี.ค.
+Save 6=บันทึก 6
+Save 3=บันทึก 3
+Save 5=บันทึก 5
+Save 7=บันทึก 7
+Auto Save=บันทึกอัตโนมัติ
+Spring May=ฤดูใบไม้ผลิ พ.ค.
+Summer Aug.=ฤดูร้อน ส.ค.
+Summer Dec.=ฤดูร้อน ธ.ค.
+Spring Jun.=ฤดูใบไม้ผลิ มิ.ย.
+Spring Apr.=ฤดูใบไม้ผลิ เม.ย.
+May <size\=20>14 years old</size>=เมย์ <size \ = 20> 14 ปี </size>
+May <size\=20>6 years old</size>=เมย์ <size\=20>6 ขวบ</size>
+May <size\=20>5 years old</size>=เมย์ <size\=20>5 ขวบ</size>
+May <size\=20>13 years old</size>=เมย์ <size\=20>13 ปี</size>
+May <size\=20>12 years old</size>=เมย์ <size\=20>12 ปี</size>
+悠key    mo4151165636    欢迎来rua勘勘猫猫=悠key mo4151165636 欢迎来rua勘勘猫猫
+ippo酱    PoPi    sokiri=ippo酱 PoPi sokiri
+\n养蛋人\n\n\nGamera Games\n\n\nFry Zoi\n\n\nFry Zoi\n\n\nZoi\n\n\n木兆子  钟木  余安乐  狗狗蛋\n\n\n中原麻衣  小吭叽qwq  狐狸  眈眈  \nwilla  大飞  留白  云道  幻璃\n\n\ndova-s.jp  freesound.org  魔王魂=\n养蛋人\n\n\nGamera Games\n\n\nFry Zoi\n\n\nFry Zoi\n\n\nZoi\n\n\n木兆子 钟木 余安乐 狗狗蛋\n\n\n中原麻衣 小吭叽qwq 狐狸 眈眈 \nwilla 大飞 留白 云道 幻璃\n\n\ndova-s.jp freesound.org 魔王魂
+To Adulthood\nremains          turns    =ถึงวัยผู้ใหญ่\nเหลืออีกกี่เทิร์น
+G=G
+Staff=พนักงาน
+Jan.=ม.ค.
+English=อังกฤษ
+Map=แผนที่
+Fame:=ชื่อเสียง:
+B+=B+
+Remain=เหลือ
+Grade=ระดับ
+Closet=ตู้เสื้อผ้า
+Extra\nMaster Classes=พิเศษ\nชั้นเรียนหลัก
+Love Letter=จดหมายรัก
+Room=ห้อง
+Exit=ออก
+New Game=เกมส์ใหม่
+Action Point=แต้มพลังงาน
+Load=โหลด
+Volcano Princess=เจ้าหญิงภูผาเพลิง
+Mood=อารมณ์
+お知らせ：\r\nセーブ機能はその日の「行動前」のステータスが保存されます。\r\n一周目クリア後、「コレクション」と「引き継ぎ」が解放されます。\r\n\r\nSteamのクラウドセーブ機能は現在利用いただけません。\r\nセーブデータを引き継ぐには以下の手順でコピーする必要があります。\r\n手順：\r\n1. Windowsキー + Rキー を押して「ファイル名を指定して実行」を表示。\r\n2. 空白の箇所に「Appdata」と入力してOKを押す。\r\n3. 表示されたフォルダーから「LocalLow → EggHatcher」の順に移動。\r\n4.「VolcanoPrincess」フォルダーをコピーして、引き継ぎたい端末の同じ箇所に貼り付ける。=お知らせ：\r\nセーブ機能はその日の「行動前」のステータスが保存されます。\r\n一周目クリア後、「コレクション」と「引き継ぎ」が解放されます。\r\n\r\nSteamのクラウドセーブ機能は現在利用いただけません。\r\nセーブデータを引き継ぐには以下の手順でコピーする必要があります。\r\n手順：\r\n1. Windowsキー + Rキー を押して「ファイル名を指定して実行」を表示。\r\n2. 空白の箇所に「Appdata」と入力してOKを押す。\r\n3. 表示されたフォルダーから「LocalLow → EggHatcher」の順に移動。\r\n4.「VolcanoPrincess」フォルダーをコピーして、引き継ぎたい端末の同じ箇所に貼り付ける。
+
+คำแปล: お知ら： セーブはの「」保存され一\r\n\r\nSteam のはいただけません。を：：： コピー：：：：：：：：：：：\n。 2. 空白のに「「「「「表示表示れからたたたフォルダーフォルダー移動移動。移動移動移動移動移動移動移動移動移動→→→→→→→→\n箇所貼り付ける。
+BUG反馈=บั๊ก反馈
+Are you sure you want to read the archive?\n<size\=24> (unsaved progress will be lost)</size>=แน่ใจหรือไม่ว่าต้องการอ่านข้อมูลที่เก็บไว้?\n<size=24> (ความคืบหน้าที่ยังไม่บันทึกจะหายไป)</size>
+Voice Language=เสียงพากย์
+Text Language=ภาษาบทสนทนา
+中文=จีน
+日本語=ญี่ปุ่น
+Skip=ข้าม
+Today marks ten years since meeting my wife, had agreed to go to pray together in the morning.=วันนี้เป็นวันครบรอบสิบปีที่พบกับภรรยาของฉัน เราตกลงกันว่าจะไปอธิษฐานด้วยกันในตอนเช้า
+But her peaceful sleeping face made it hard to wake her up. I went to the altar alone.=แต่ใบหน้าที่สงบสุขของเธอขณะนอนหลับทำให้ฉันไม่กล้าปลุกเธอ\nฉันจึงไปที่แท่นบูชาคนเดียว
+The altar, which had always been neat was now in ruins, seemed to have been attacked by fierce beasts.=แท่นบูชาที่เคยเรียบร้อยอยู่เสมอ ตอนนี้กลับพังทลาย เหมือนถูกโจมตีโดยสัตว์ร้าย
+It didn't feel like a place where I should be praying.=มันไม่รู้สึกเหมือนเป็นสถานที่ที่ฉันควรจะมาอธิษฐาน
+So I picked some of my wife's favorite flowers and returned home.=ดังนั้นฉันจึงเก็บดอกไม้ที่ภรรยาชอบบางดอกแล้วกลับบ้าน
+Gently woke her up=ปลุกเธออย่างอ่อนโยน
+Sorry, did I fall asleep again......=ขอโทษนะ ฉันเผลอหลับไปอีกแล้วใช่ไหม......
+Don’t worry.=ไม่เป็นไร
+Should have gone together for the blessing ......=เราน่าจะไปขอพรด้วยกัน......
+Look what I brought for you.=ดูสิว่าฉันเอาอะไรมาฝากเธอ
+Oh, what beautiful flowers!=ดอกไม้สวยจัง!
+Shall we decide together?=เราตัดสินใจด้วยกันดีไหม?
+I've been dreaming about you, \n and thought of some baby names......=ฉันฝันถึงคุณ\nและคิดชื่อเด็กไว้บางชื่อ......
+Of course, let's do it!=แน่นอน มาทำกันเลย!
+Daughter's name?=ชื่อลูกสาว?
+的的小甜甜天天他r\nerewrr\nereee=的的小甜甜天天他r\nerewrr\nereee
+Decide=ตัดสินใจ
+Well ...... I've thought of it! The daughter's name ...... will be ......=เอาล่ะ...... ฉันคิดออกแล้ว! ชื่อของลูกสาวจะเป็น......
+B=B
+A=A
+Daughter's blood type?=กรุ๊ปเลือดของลูกสาว?
+AB=AB
+O=O
+Rh-=Rh-
+Rh+=Rh+
+Previous=ก่อนหน้า
+Her name is May ...!That's a pretty name, isn't it?=เธอชื่อว่าเมย์...! ชื่อนี้เพราะดีใช่ไหม?
+Jul=ก.ค.
+Jun=มิ.ย.
+May=พ.ค.
+Apr=เม.ย.
+Mar=มี.ค.
+Feb=ก.พ.
+Jan=ม.ค.
+Daughter's birthday?=วันเกิดลูกสาว?
+Aug=ส.ค.
+Sept=ก.ย.
+Oct=ต.ค.
+Nov=พ.ย.
+Dec=ธ.ค.
+Month=เดือน
+Date=วันที่
+About her birthday ...... Well ......=เกี่ยวกับวันเกิดของเธอ ...... อืม ......
+She will be born in the gentle winter ......=เธอจะเกิดในฤดูหนาวที่แสนอ่อนโยน......
+Father's name?=ชื่อของพ่อ?
+Father's birthday?=วันเกิดของพ่อ?
+I've planned it well, haven't I, Mei?=ฉันวางแผนไว้ดีแล้วใช่ไหม, เหมย?
+Daughter's name: \nBlood type: \nBirthday:=ชื่อลูกสาว: \nกรุ๊ปเลือด: \nวันเกิด:
+Father's name:\nBirthday:=ชื่อพ่อ: \nวันเกิด:
+Decided?=ตัดสินใจแล้ว?
+May\nB\n12/24=เมย์\nB\n12/24
+Mei\n6/9=เหมย\n6/9
+Finally,I'm looking forward to the future of May and you!=สุดท้ายนี้ ฉันตั้งตารอคอยอนาคตของเมย์กับคุณ!
+It's been decided.=ตัดสินใจเรียบร้อยแล้ว
+Then...=แล้ว...
+Together with May…\n live a happy ever after.=อยู่ร่วมกับเมย์…\nมีความสุขตลอดไป
+Spring Volcano Year=ปีภูผาเพลิง ฤดูใบไม้ผลิ
+See daughter=ดูแลลูกสาว
+News=หนังสือพิมพ์
+Mei=เหมย
+Good morning, Luca.=อรุณสวัสดิ์, ลูก้า
+What happened five years ago... I dreamed of it again.=มันเกิดอะไรขึ้นเมื่อห้าปีที่แล้ว... ฉันฝันถึงมันอีกแล้ว
+May turns five soon. I like to think that I've taken good care of her.=เมย์จะอายุครบห้าขวบในเร็วๆ นี้ ฉันคิดว่าฉันชอบที่ได้ดูแลเธออย่างดี
+I remember that you used to compliment me on even the smallest things.=ฉันจำได้ว่าเธอเคยชมฉันแม้แต่เรื่องเล็กน้อย
+When I grow old, will you praise me from heaven for how I've raised May? Will you say that I did everything that I could?=เมื่อฉันแก่ตัวลง เธอจะชมฉันจากสวรรค์สำหรับการเลี้ยงดูเมย์ไหมนะ?\nเธอจะบอกไหมว่าฉันได้ทำทุกอย่างเท่าที่ทำได้แล้ว?
+To make that happen, I will be a good father again this year. I won't let you down.=เพื่อให้เป็นเช่นนั้น ฉันจะเป็นพ่อที่ดีอีกครั้งในปีนี้\nฉันจะไม่ทำให้เธอผิดหวัง
+Lee=ลี
+What kind of father will you be? \nWhy not give yourself a cool identity?=คุณจะเป็นพ่อแบบไหน?\nทำไมไม่ลองให้ตัวเองมีอัตลักษณ์เท่ๆ ดูล่ะ?
+It's you, Lee.=เป็นแกนั่นเอง, ลี
+It's better for May if you make up your mind sooner rather than later, trust me.=มันจะดีกว่าสำหรับเมย์ถ้าเธอตัดสินใจได้เร็วๆ เชื่อฉันเถอะ
+Well, what kind of father should I be...=เอาล่ะ, ฉันควรจะเป็นพ่อแบบไหนดี...
+What kind of father are you?=คุณเป็นพ่อแบบไหน?
+The father who\ndotes on his daughter=พ่อที่รักและ\nเอ็นดูลูกสาวของเขา
+The father who makes\nhis daughter proud=พ่อที่ทำให้ลูกสาวภูมิใจ
+The father who makes\nhis daughter feel safe=พ่อที่ทำให้ลูกสาวรู้สึกปลอดภัย
+Good, about time you decided.=ดีแล้ว ถึงเวลาที่เธอตัดสินใจได้แล้ว
+Make a promise to your daughter, do everything you can to keep it!=สัญญากับลูกสาวของคุณ แล้วทำทุกอย่างเพื่อรักษาสัญญานั้น!
+May drew me a cute little bird.=เมย์วาดรูปนกตัวเล็กน่ารักให้ฉัน
+My love, you have been there for me all along, right? Don't worry, I will take care.=ที่รัก เธออยู่เคียงข้างฉันมาตลอดใช่ไหม?\nไม่ต้องห่วงนะ ฉันจะดูแลทุกอย่างเอง
+May's favorite white flowers.=ดอกไม้สีขาวที่เมย์ชื่นชอบ
+"<size\=31>C</size>orro Buck is a virtuous Knight. He can ensure everyone gets better land, and I will choose him to be the manager around here." A commoner from Wild Horse Lake said.="<size\=31>C</size>orro Buck เป็นอัศวินผู้มีคุณธรรม เขาสามารถทำให้ทุกคนได้ที่ดินที่ดีกว่าเดิม และฉันจะเลือกเขาเป็นผู้จัดการที่นี่" ชาวบ้านจากทะเลสาบม้าป่ากล่าว
+Bard at the family restaurant=นักกวีที่ร้านอาหารครอบครัว
+V<size\=60>OLCANO</size>. S<size\=60>UN</size>.=ว<size\=60>ออลคาโน</size>. ซ<size\=60>ัน</size>
+<size\=31>I</size>t has been many years since the war between humans and demons, but we will never forget the hero to all -- Hero Asbell. "I like to go to the family restaurant; their foods are quite nice." He said peacefully.=<size\=31>ห</size>ลายปีผ่านไปตั้งแต่สงครามระหว่างมนุษย์กับปีศาจจบลง แต่เราจะไม่มีวันลืมฮีโร่ของทุกคน -- ฮีโร่แอสเบลล์ "ฉันชอบไปที่ร้านอาหารครอบครัว อาหารของพวกเขาอร่อยมาก" เขากล่าวอย่างสงบ
+Return of Hero Asbell=การกลับมาของฮีโร่แอสเบล
+<size\=31>T</size>here's a new bard at the family restaurant, "he tells all kinds of stories; I always bring my kids with me, and we can spend all day here." A regular at the restaurant said.=<size\=31>มี</size>นักกวีคนใหม่ที่ร้านอาหารครอบครัว "เขาเล่าเรื่องราวต่างๆ มากมาย ฉันมักจะพาลูกๆ มาด้วย และเราสามารถใช้เวลาทั้งวันที่นี่" ลูกค้าประจำของร้านกล่าว
+Everyone will get farm land=ทุกคนจะได้ที่ดินไว้ทำเกษตรกรรม
+V<size\=16>OL</size>.1.    J<size\=16>ANUARY</size>  1,    S<size\=16>PRING</size> F<size\=16>IRE</size>.    N<size\=16>UMB</size>. 33.=ว<size\=16>อล</size>.1. มก<size\=16>รา</size>คม 1, ส<size\=16>ปร</size>ิง. F<size\=16>า</size>ย. ลำ<size\=16>ดับ</size>. 33.
+Check your identity targets here!=ตรวจสอบเป้าหมายของคุณที่นี่!
+Mind=จิตใจ
+Stamina=ความแข็งแกร่ง
+Charisma=ความสามารถพิเศษ
+(May seems flustered.)=(เมย์ดูว่องไว)
+INT=INT
+IMG=IMG
+EMO=EMO
+STR=STR
+E=E
+Ah! Papa! Good morning!=อ๊ะ! ป่าป๊า! อา-ยุน-ซา-หวาด!
+May, what's up?=เกิดอะไรขึ้นเมย์?
+May doesn't know!=เมย์ม่ายรู้!
+(A little secret at the age of five! How intriguing…)=(ความลับเล็กๆ ของเด็กห้าขวบ! น่าสนใจซะจริง...)
+Father's example event!=เหตุการณ์ของพ่อตัวอย่าง!
+I need to look under the bed!=ฉันต้องมองใต้เตียง!
+Papa remembers something interesting... =พ่อจำได้ว่ามีสิ่งที่น่าสนใจ...
+Every warrior has their unique treasure chest! =นักรบทุกคนมีหีบสมบัติลับส่วนตัวเสมอ!
+Papa respect your secrets =พ่อเคารพความลับของลูก
+Regarding May's secret under the bed, Mei said... =เกี่ยวกับความลับของเมย์ภายใต้เตียง, เหมยกล่าวว่า...
+<color\=#ff7251>May</color>\nPapa Rating UP! =เมย์\nให้คะแนนป่าป๊าเพิ่มขึ้น!
+WOW! Will May become a powerful warrior one day too?=ว้าว! วันนึงเมย์จะกลายเป็นนักรบที่แข็งแกร่งได้ใช่ไหม?
+Alrighty! It's the morning now, May will do some morning exercise!=เอาล่ะ! ตอนนี้เช้าแล้ว เมย์จะต้องออกกำลังกายยามเช้า!
+Did papa know that May a sweet little girl!=ป่าป๊ารู้ไหมว่าเมย์เป็นเด็กสาวน่ารักที่ฉุดเยย!
+Furniture=เฟอร์นิเจอร์
+STR +0\nINT +0\nEMO +0\nIMG +0=STR +0\nINT +0\nEMO +0\nIMG +0
+Daily Plan  =แผนประจำวัน
+Play with papa=เล่นกับป่าป๊า
+Your learning progress will increase if you achieve the best attributes.=ความก้าวหน้าในการเรียนรู้ของคุณจะเพิ่มขึ้นหากคุณเพิ่มคุณลักษณะได้ดีที่สุด
+Favorable Impression=ความประทับใจที่ดี
+Course Summary=สรุปหลักสูตร
+Learning outcome=ผลการเรียนรู้
+Infant Classes=ชั้นเรียนเด็กเล็ก
+EMO:50=EMO:50
+INT:50=INT:50
+Greeting=ทักทาย
+<size\=18>Learning progress: </size>0%=<size\=18>ความก้าวหน้าในการเรียนรู้: </size>0%
+STR:50=STR:50
+Best attributes:=คุณลักษณะที่ดีที่สุด:
+Each time learning progress+=แต่ละครั้งที่เรียนรู้ ความก้าวหน้า+
+Healthy Morning Exercise=การออกกำลังกายในตอนเช้าดีต่อสุขภาพ
+Rest=พักผ่อน
+Each time learning progress +=ทุกครั้งที่เรียนรู้ความคืบหน้า +
+Physique: <size\=23>900</size>=กายภาพ: <size\=23>900</size>
+STR+3\n=STR+3\n
+Evaluation:=การประเมิน:
+\nPapa is intelligent=\nป่าป๊าเป็นคนฉลาด
+Papa is gentle=ป่าป๊าอ่อนโยน
+Papa is brave=ป่าป๊ากล้าหาญ
+Papa is kind=ป่าป๊าเป็นคนใจดี
+Eat well=กินอย่างดี
+Little citizen=พลเมืองตัวน้อย
+Papa is kinda lame=ป่าป๊าน่าเบื่อจัง
+Learning to take care of myself=เรียนรู้การดูแลตัวเอง
+Target：The father who makes his daughter proud=เป้าหมาย: พ่อที่ทำให้ลูกสาวภูมิใจ
+Finish 3 courses with daughter (0/3)=จบ 3 หลักสูตรกับลูกสาว (0/3)
+Eat at a restaurant with daughter 3 times (0/3)=กินอาหารที่ร้านอาหารกับลูกสาว 3 ครั้ง (0/3)
+May and Mei's target=เป้าหมายของ เมย์ และ เหมย
+Talking with townspeople 10 times (0/10)=พูดคุยกับคนในเมือง 10 ครั้ง (0/10)
+Brave + Kind=กล้าหาญ + ใจดี
+In Progress=กำลังดำเนินการ
+5 rounds remaining=เหลืออีก 5 รอบ
+May's rating to Papa：=คะแนนที่เมย์ให้พ่อ:
+Equipped=ติดตั้งอยู่
+Owned items=รายการที่เป็นเจ้าของ
+All=ทั้งหมด
+Wooden Bow=คันธนูไม้
+Wooden Sword=ดาบไม้
+Source: \n sowing - Carrot Seeds=ที่มา: \n หว่าน - เมล็ดแครอท
+Carrot=แครอท
+Ingredients=วัตถุดิบ
+Sweet carrots.=แครอทหวาน
+Obtain crops after planting and plowing.\nSeed of unknown flower, I wonder what flower will grow out of it》=ได้รับผลผลิตหลังจากปลูกและไถดิน\nเมล็ดของดอกไม้ที่ไม่รู้จัก ฉันสงสัยว่าดอกไม้อะไรจะเจริญเติบโตขึ้นมา》
+Seeds=เมล็ด
+Flower Seeds=เมล็ดดอกไม้
+Carrot Seeds=เมล็ดแครอท
+Obtain crops after planting and plowing.\nCarrot seeds, I wonder if it's sweet=ได้รับผลผลิตหลังจากปลูกและไถดิน\nเมล็ดแครอท ฉันสงสัยจังว่ามันจะหวานมั้ย
+Wheat Seeds=เมล็ดข้าวสาลี
+Obtain crops after planting and plowing.\nWheat seeds, looks like a new strain of wheat.=รับผลผลิตหลังจากปลูกและไถดิน\nเมล็ดข้าวสาลี ดูเหมือนเป็นพันธุ์ข้าวใหม่
+Little Lady's Dice=ลูกเต๋าเลดี้ตัวน้อย
+Dice=ลูกเต๋า
+Character dice=ลูกเต๋าตัวละคร
+Little Lady=เลดี้ตัวน้อย
+Umbrella Sword=ดาบร่ม
+Old Man's Dice=ลูกเต๋าของชายชรา
+Old Man=ชายชรา
+Walking Stick=ไม้เท้า
+Vagabond's Dice=ลูกเต๋าของโจรสลัด
+Wanderer=คนเร่ร่อน
+Begging=ขอทาน
+Other=อื่นๆ
+Toys=ของเล่น
+Food=อาหาร
+Equipment=อุปกรณ์
+Gifts=ของขวัญ
+Consumption=บริโภค
+Hold=ถือ
+Attributes gain 1 talent point for every level, which can be used to upgrade talents.=ทุกระดับคุณลักษณะจะได้รับ 1 จุดความสามารถซึ่งสามารถใช้ในการอัพเกรดความสามารถ
+Beloved=เป็นที่รัก
+Tricks of the trade=เทคนิคการค้า
+King of Dice=ราชาแห่งลูกเต๋า
+Bows=ธนู
+(Click to equip)\nWooden bow Mei handcrafted  for May.=(คลิกเพื่อใส่)\nไม้พายที่เหมยทำด้วยมือสำหรับเมย์
+Strengthen body=เสริมสร้างร่างกาย
+Farmers' blessing=พรของเกษตรกร
+Winning manners=ชัยชนะแห่งมารยาท
+Bounty hunter=นักล่าเงินรางวัล
+Thunderbolt=สายฟ้า
+Friend of horses=เพื่อนของม้า
+Energetic=กระฉับกระเฉง
+Land gift=ที่ดินของขวัญ
+Master of Alchemy=นักเล่นแร่แปรธาตุ
+Swords=ดาบ
+(Click to equip)\nWooden sword Mei handcrafted for May, not the best quality, but light-weighted.=(คลิกเพื่อใส่)\nดาบไม้ที่เหมยทำเองสำหรับเมย์ คุณภาพไม่ดีที่สุด แต่เบาที่สุด
+Friendly gifting=ของขวัญที่เป็นมิตร
+Dedication=ความมุ่งมั่น
+Food gift=ของขวัญอาหาร
+Sweet words=คำพูดที่หวานใจ
+Spring Breeze=สายลมฤดูใบไม้ผลิ
+Enhance resistance=เพิ่มความต้านทาน
+Great blast=ระเบิดดีเยี่ยม
+Treasure hunter=นักล่าสมบัติ
+Strengthen blow=เสริมกำลังการโจมตี
+Combat=การต่อสู้
+Social=สังคม
+Talent skills=ความสามารถพิเศษ
+Life=ชีวิต
+Aquire 3 skill points to unlock the next level.=รับ 3 คะแนนทักษะเพื่อปลดล็อคเลเวลถัดไป
+Talent:   =ความสามารถ:
+Attack+1\nCRIT Rate+5\n<size\=18>Attack Bonus: </size>Stamina10%=โจมตี+1\nคริเรท+5\n<size\=18>โบนัสการโจมตี: </size>สตามินา 10%
+Attack+1\n<size\=18>Attack Bonus: </size>Stamina10%=โจมตี+1\n<size\=18>โบนัสการโจมตี: </size>สตามินา 10%
+LV UP to=เลเวลขึ้นเป็น
+Next level:<color\=#000000>20</color>% chance to gain <color\=#0006ba>double tips</color> during part-time job at Baths.=ระดับถัดไป: <color\=#000000>20</color>% โอกาสที่จะได้รับ <color\=#0006ba>ทิปสองเท่า</color> ระหว่างทำงานพาร์ทไทม์ที่โรงอาบน้ำ
+Next level:When <color\=#0006ba>gifting</color> there is a <color\=#000000>10</color>% chance to obtain double Good Feeling.=ระดับถัดไป: เมื่อ <color\=#0006ba>มอบของขวัญ</color> จะมีโอกาส <color\=#000000>10</color>% ที่จะได้รับความรู้สึกดีเป็นสองเท่า
+Next level:When <color\=#0006ba>chatting</color> there is a <color\=#000000>30</color>% chance to additionally increase 1 Good Feeling.=ระดับถัดไป: เมื่อ <color\=#0006ba>พูดคุย</color> จะมีโอกาส <color\=#000000>30</color>% ที่จะเพิ่มความรู้สึกดีอีก 1
+Next level:<color\=#000000>10</color>% chance to <color\=#0006ba>obtain double items</color> when winning a debate or duel.=ระดับถัดไป: โอกาส <color\=#000000>10</color>% ที่จะ <color\=#0006ba>ได้รับไอเทมสองเท่า</color> เมื่อชนะการโต้วาทีหรือดวล
+Next level:When <color\=#0006ba>purchasing items</color>from the store, the price decreases <color\=#000000>10</color>%=ระดับถัดไป: เมื่อ <color\=#0006ba>ซื้อไอเทม</color> จากร้านค้า ราคาจะลดลง <color\=#000000>10</color>%
+Next level:The base atmosphere value increases by <color\=#000000>1</color> points when inviting=ระดับถัดไป: ค่าบรรยากาศพื้นฐานจะเพิ่มขึ้น <color\=#000000>1</color> คะแนนเมื่อเชิญเข้าทีม
+Next level:Good Feeling level needed for <color\=#0006ba>hang out</color> decreases to <color\=#0006ba>Acquaintance</color>=ระดับถัดไป: ระดับความรู้สึกดีที่ต้องการสำหรับ <color\=#0006ba>การออกไปเที่ยว</color> ลดลงเหลือ <color\=#0006ba>คนรู้จัก</color>
+Next level:Alchemy success rate increased by <color\=#000000>5</color>%=ระดับถัดไป: อัตราความสำเร็จในการเล่นแร่แปรธาตุเพิ่มขึ้น <color\=#000000>5</color>%
+Next level:When planting and plowing <color\=#0006ba>Number of seed planted</color> increase<color\=#000000>1</color>=ระดับถัดไป: เมื่อปลูกและไถ <color\=#0006ba>จำนวนเมล็ดที่ปลูก</color> เพิ่มขึ้น <color\=#000000>1</color>
+Next level:<color\=#0006ba>Action Point limit</color> increase <color\=#000000>1</color>points.=ระดับถัดไป: <color\=#0006ba>ขีดจำกัดแต้มพลัง</color> เพิ่มขึ้น <color\=#000000>1</color> แต้ม
+Next level:Extra <color\=#000000>20</color>G after winning the dice game=ระดับถัดไป: ได้รับเงินเพิ่มอีก <color\=#000000>20</color>G หลังจากชนะเกมทอยลูกเต๋า
+Next level:Base Speed of Caught Horses +<color\=#000000>10</color>=ระดับถัดไป: ความเร็วพื้นฐานของม้าที่จับได้ +<color\=#000000>10</color>
+Next level:When cooking, there is a <color\=#000000>5</color>% chance to <color\=#0006ba>Obtain double dishes</color>.=ระดับถัดไป: เมื่อทำอาหาร จะมีโอกาส <color\=#000000>5</color>% ที่จะ <color\=#0006ba>ได้รับอาหารสองเท่า</color>
+Next level:After planting, each land has <color\=#000000>15</color>% chance to <color\=#0006ba>Obtain additional crops</color>.=ระดับถัดไป: หลังจากปลูก แต่ละแปลงจะมีโอกาส <color\=#000000>15</color>% ที่จะ <color\=#0006ba>ได้รับผลผลิตเพิ่มเติม</color>
+Next level:<color\=#0006ba>Defense</color> increased by <color\=#000000>3</color>.=ระดับถัดไป: <color\=#0006ba>พลังป้องกัน</color> เพิ่มขึ้น <color\=#000000>3</color>
+Next level:<color\=#0006ba>HP limit</color> increased by <color\=#000000>8</color>.=ระดับถัดไป: <color/=#0006ba>ขีดจำกัด HP</color> เพิ่มขึ้น <color/=#000000>8</color>
+Next level:<color\=#0006ba>Attack</color> increased by <color\=#000000>5</color>.=ระดับถัดไป: <color\=#0006ba>พลังโจมตี</color> เพิ่มขึ้น <color\=#000000>5</color>
+Next level:<color\=#0006ba>Critical Hit</color> rate increase<color\=#000000>5</color>%  (max: 80)=ระดับถัดไป: อัตรา<color\=#0006ba>คริติคอล</color>เพิ่มขึ้น <color\=#000000>5</color>% (สูงสุด: 80)
+Next level:<color\=#0006ba>Dodge</color> rate increased by <color\=#000000>5</color>%  (max: 80)=ระดับถัดไป: อัตราการ<color\=#0006ba>หลบหลีก</color>เพิ่มขึ้น <color\=#000000>5</color>% (สูงสุด: 80)
+Next level:Kill monsters for <color\=#000000>20</color>% chance to obtain <color\=#0006ba>double gold</color>.=ระดับถัดไป: ฆ่ามอนสเตอร์จะมีโอกาส <color\=#000000>20</color>% ที่จะได้รับ <color\=#0006ba>ทองสองเท่า</color>
+Next level:Kill monsters for <color\=#000000>10</color>% chance to obtain <color\=#0006ba>double drop</color>=ระดับถัดไป: ฆ่ามอนสเตอร์จะมีโอกาส <color\=#000000>10</color>% ที่จะได้รับ <color\=#0006ba>ไอเทมดรอปสองเท่า</color>
+Talk <size\=20>LV up to unlock</size>=พูดคุย <size\=20>เลเวลอัพเพื่อปลดล็อค</size>
+Give pocket money=ให้เงินในกระเป๋า
+Chat=แชท
+Recent dreams=ความฝันล่าสุด
+Criticize=บ่นวิจารณ์
+Share secret=แบ่งปันความลับ
+Affection<size\=38> + </size><color\=#ffc558>1</color>=ความรัก<size\=38> + </size><color\=#ffc558>1</color>
+Perception<size\=38> + </size><color\=#ffc558>3</color>=การรับรู้<size\=38> + </size><color\=#ffc558>3</color>
+Papa must have wanted me to say it first!=ป่าป๊าคงอยากให้หนูพูดก่อนแน่เลย!
+Affection 1 increased\nMood 4 increased\nPerception 3 increased=เพิ่มความรัก 1\nเพิ่มอารมณ์ 4\nเพิ่มการรับรู้ 3
+Achievement=ความสำเร็จ
+Page 1/7 =หน้า 1/7
+Guard Captain=หัวหน้าผู้คุ้มกัน
+Hunter=นักล่า
+Gold Adventurer=นักผจญภัยทองคำ
+Marksman=นักแม่นปืน
+Soldier=ทหาร
+General=ทั่วไป
+Warrior =นักรบ
+Honorable Knight=อัศวินผู้มีเกียรติ
+Volcano Queen=ราชินีภูผาเพลิง
+Volcano Goddess=เทพธิดาภูผาเพลิง
+World Exploration=การสำรวจโลก
+Daughter's Growth=การเจริญเติบโตของลูกสาว
+Main Story=เนื้อเรื่องหลัก
+Emotion=อารมณ์
+Number reached:0/64=จำนวนที่ถึง: 0/64
+Profession=อาชีพ
+Page 1/3 =หน้า 1/3
+Marry Lon=แต่งงานกับลอน
+The Novelist's Heroine=นางเอกของนักเขียนนวนิยาย
+Marry Ze=แต่งงานกับเซ
+The Judge's St. Elmo's Fire=ผู้พิพากษาของไฟเซนต์เอลโม
+Marry Hackett=แต่งงานกับแฮ็คเก็ตต์
+The Bird of Red=นกสีแดง
+Marry Benson=แต่งงานกับเบ็นสัน
+Painter's Mockingbird=นกม็อกกิ้งเบิร์ดของจิตรกร
+Marry Craig=แต่งงานกับเคร็ก
+Musician's Sun=พระอาทิตย์ของนักดนตรี
+Marry Nina=แต่งงานกับนีนา
+Nina's Bride=เจ้าสาวของนีนา
+Marry Mona=แต่งงานกับโมนา
+Chef's Honey=น้ำผึ้งของพ่อครัว
+Achieve Romance endings with Benson, Hackett, Craig, Ron, and Zee.=บรรลุฉากจบโรแมนติกกับเบนสัน แฮ็คเก็ตต์ เคร็ก ลอน และซี
+Let's Harvest Wheat Together=มาเก็บเกี่ยวข้าวสาลีกัน!
+Achieve Romance ending with Nina and Mona.=บรรลุจุดจบโรแมนติกกับนิน่าและโมน่า
+Girl's Paradise=สวรรค์ของหญิงสาว
+Achieve the Romance ending with Gwyneth and Kenneth.=บรรลุฉากจบโรแมนติกกับกวินเน็ธและเคนเน็ธ
+Kite of the Royal Family=คนโลภของราชวงศ์
+Number reached:0/25=จำนวนที่ถึง: 0/25
+Page 1/2 =หน้า 1/2
+Blessed by a mysterious bird.=ได้รับพรจากนกลึกลับ
+Bird of Wisdom=นกแห่งปัญญา
+Blessed by a mysterious man.=ได้รับพรจากชายลึกลับ
+Strong Man=ผู้ชายแข็งแกร่ง
+Blessed by a mysterious woman.=ได้รับพรจากผู้หญิงลึกลับ
+The Beautiful Elf=เอลฟ์ผู้งดงาม
+Received the blessing from the Mouse Chef Brave.=ได้รับพรจากพ่อครัวหนูผู้กล้าหาญ
+Chef Brave!=พ่อครัวผู้กล้าหาญ!
+Achieve TRUE ENDING=บรรลุจุดจบที่แท้จริง
+Together with My Wife=พร้อมกับภรรยาของฉัน
+Received a letter from the daughter.=ได้รับจดหมายจากลูกสาว
+Letter from My daughter=จดหมายจากลูกสาวของฉัน
+Purchased items from a mysterious merchant.=ซื้อสินค้าจากพ่อค้าลึกลับ
+Mysterious Treasures=สมบัติลึกลับ
+The last month with the daughter.=เดือนที่ผ่านมากับลูกสาว
+Journey's End=จุดสิ้นสุดของการเดินทาง
+The first winter=ฤดูหนาวครั้งแรก
+Happy Winter!=สุขสันต์วันฤดูหนาว!
+The first autumn=ฤดูใบไม้ร่วงครั้งแรก
+Happy Autumn!=สุขสันต์ในฤดูใบไม้ร่วง!
+Number reached:5/20=จำนวนที่ถึง: 5/20
+Page 1/5 =หน้า 1/5
+Finish reading 20 books.（0/20）=อ่านหนังสือ 20 เล่ม （0/20)
+A book that walks=หนังสือที่เดินได้
+Have 15 best friends.（0/15）=มีเพื่อนที่ดีที่สุด 15 คน （0/15)
+You can have many relationships=คุณสามารถมีความสัมพันธ์ได้หลายคน
+Have 5 best friends.（0/5）=มีเพื่อนที่ดีที่สุด 5 คน （0/5)
+Best friends who can talk about anything=เพื่อนที่ดีที่สุดที่สามารถพูดคุยเรื่องใดก็ได้
+Have 15 friends.（0/15）=มีเพื่อน 15 คน （0/15)
+Everyone is my friend!=ทุกคนคือเพื่อนของฉัน!
+Complete 100 courses' study.（0/100）=จบการศึกษา 100 หลักสูตร （0/100)
+The Walking Encyclopaedia =สารานุกรมเดินได้
+Complete 70 courses' study.（0/70）=จบการศึกษา 70 หลักสูตร （0/70)
+Honorable Knight of Lessons=อัศวินมีเกียรติแห่งบทเรียน
+Complete 50 courses' study.（0/50）=จบการศึกษา 50 หลักสูตร （0/50)
+Athlete of Lessons=นักกีฬาดีเด่นของบทเรียน
+Complete 30 courses' study.（0/30）=จบการศึกษา 30 หลักสูตร （0/30)
+Class Encourager =ผู้สนับสนุนชั้นเรียน
+Become second in the Volcano Kingdom Festival.=กลายเป็นอันดับสองในงานเทศกาลราชอาณาจักรภูผาเพลิง
+Silver Award!=รางวัลเงิน!
+Become first in the Volcano Kingdom Festival.=กลายเป็นอันดับหนึ่งในเทศกาลราชอาณาจักรภูผาเพลิง
+Gold Award!=รางวัลทอง!
+Number reached:6/50=จำนวนที่ถึง: 6/50
+Page 1/8 =หน้า 1/8
+Complete 10 plays.（0/10）=เล่น 10 บทละคร （0/10)
+Hardworking Actress=นักแสดงที่ขยันหมั่นเพียร
+Complete 5 plays.（0/5）=เล่น 5 บทละคร （0/5)
+Proficient Actress=นักแสดงหญิงที่มีความเชี่ยวชาญ
+Complete 20 paintings.（0/20）=สมบูรณ์ 20 ภาพวาด （0/20)
+Dedicated Painter=จิตรกรที่มุ่งมั่น
+Complete 10 paintings.（0/10）=สมบูรณ์ 10 ภาพวาด （0/10)
+Genius Painter=จิตรกรอัจฉริยะ
+Complete 5 paintings.（0/5）=สมบูรณ์ 5 ภาพวาด （0/5)
+Hardworking Painter=จิตรกรที่ขยันมาก
+Dated 50 times.（0/50）=ออกเดท 50 ครั้ง (0/50)
+Dating is the most enjoyable thing=การเดทเป็นสิ่งที่สนุกสุดเหวี่ยง
+Dated 30 times.（0/30）=ออกเดท 30 ครั้ง （0/30)
+Can we date often=เราจะเดทกันบ่อยๆได้ไหม
+Dated 10 times.（0/10）=ออกเดท 10 ครั้ง （0/10)
+Let's Date=ไปเดทกัน
+Complete 30 perfect dates.（0/30）=เสร็จสมบูรณ์ 30 เดทที่สมบูรณ์แบบ （0/30)
+Dating Expert=ผู้เชี่ยวชาญด้านการออกเดท
+Complete 10 perfect dates.（0/10）=เสร็จสมบูรณ์ 10 เดทที่สมบูรณ์แบบ （0/10)
+Wonderful Date=วันที่น่าประทับใจ
+Number reached:14/75=จำนวนที่ถึง: 14/75
+Save=บันทึก
+Back to Title=กลับสู่หน้าหลัก
+Costumes=เครื่องแต่งกาย
+Admirers and Love Letters=บรรดาผู้ชื่นชมและจดหมายรัก
+Dice Games=เกมลูกเต๋า
+Working in the Baths=ทำงานในห้องอาบน้ำ
+Alchemy Workshop=ร้านเล่นแร่แปรธาตุ
+Horse Racing=การแข่งม้า
+Horse Taming=จับม้า
+Meals=มื้ออาหาร
+Cooking=การทำอาหาร
+Farming=การทำฟาร์ม
+Letters from Villagers=จดหมายจากชาวบ้าน
+Chit-chat=พูดคุยเล่น
+Villager Interaction=การโต้ตอบของชาวบ้าน
+Adventure Events=กิจกรรมผจญภัย
+Combat Skills=ทักษะการต่อสู้
+Teammates=เพื่อนร่วมทีม
+Combat Attributes=คุณลักษณะการต่อสู้
+Garden Ball=การ์เด้นบอล
+Knight Tasks=งานของอัศวิน
+Lord=ขุนนาง
+Fame and Guidance=ชื่อเสียงและคำแนะนำ
+Schedule=กำหนดการ
+Core Attributes=คุณลักษณะหลัก
+Natural Skills=ทักษะธรรมชาติ
+Basic Attributes=คุณลักษณะพื้นฐาน
+Childhood Growth=การเติบโตในวัยเด็ก
+Achievements=ความสำเร็จ
+Darkness=ความมืดมิด
+Interactions=การโต้ตอบ
+Afterschool Projects=โครงการหลังเลิกเรียน
+Improve attributes and obtain resources by consuming <color\=#ffe075>Action Point</color> in the scene. \n At the beginning of each round, stamina will be filled automatically.=ปรับปรุงคุณลักษณะและรับทรัพยากรโดยใช้ <color\=#ffe075>แต้มพลัง</color> ในฉาก \n ที่จุดเริ่มต้นของแต่ละรอบ และพลังงานจะถูกเติมเต็มโดยอัตโนมัติ
+Collection:35 / 46=คอลเลคชั่น: 35 / 46
+Going Out=ออกไปข้างนอก
+Arithmetic Competitions=การแข่งขันคณิตศาสตร์
+Next=ถัดไป
+Interactions within the scene can <color\=#ffe075>improve attributes</color>. \n Different options consume different levels of stamina.=การโต้ตอบภายในฉากสามารถ <color\=#ffe075>ปรับปรุงคุณลักษณะ</color> \n ตัวเลือกต่างๆ จะใช้ระดับพลังงานที่แตกต่างกัน
+Classes and special events will reduce mood. If mood is <color\=#ffe075>lower than 50</color>, basic attributes will drop to <color\=#ffe075>50%</color>. \n The attribute value obtained during this period will not be affected, but it will affect the learning progress during class.=คลาสเรียนและกิจกรรมพิเศษจะลดอารมณ์ลง ถ้าอารมณ์ <color\=#ffe075>ต่ำกว่า 50</color> คุณลักษณะพื้นฐานจะลดลงเหลือ <color\=#ffe075>50%</color> \n ค่าคุณลักษณะที่ได้รับในช่วงนี้จะไม่ได้รับผลกระทบไปด้วย แต่จะมีผลต่อความก้าวหน้าในการเรียนรู้ระหว่างคลาสเรียน
+Exploring dark alleys, working in the bathhouse, special events during the adventure, and chatting may increase your darkness. When darkness reaches <color\=#ffe075>50</color>, guidance will not be possible.=การสำรวจตรอกมืด การทำงานในโรงอาบน้ำ กิจกรรมพิเศษระหว่างการผจญภัย และการพูดคุยอาจเพิ่มความมืดในจิตใจ เมื่อความมืดในจิตใจถึง <color/=#ffe075>50</color> จะไม่สามารถให้คำแนะนำได้
+After completing achievements, you can accumulate <color\=#ffe075>Flint</color>. \n After the first ending, you can use flint to upgrade <color\=#ffe075>initial talents</color> in the talent panel of the main interface. \n Higher initial talents will allow May to receive greater attributes and resources after the next birth.=หลังจากทำความสำเร็จได้แล้ว คุณสามารถสะสมหินเหล็กไฟได้\nหลังจากจบครั้งแรก คุณสามารถใช้หินเหล็กไฟเพื่ออัพเกรดความสามารถเริ่มต้นในแผงความสามารถของอินเตอร์เฟซหลัก\nความสามารถเริ่มต้นที่สูงขึ้นจะทำให้เมย์ได้รับคุณลักษณะและทรัพยากรมากขึ้นหลังจากการเกิดใหม่ครั้งถัดไป
+<color\=#ffe075>Improve the daughter's evaluation of her father</color> by talking with people in town and making smart choices. \nDifferent father goals will affect the scoring criteria! \n If you do well, you will be rewarded at the Birdie Festival in June.=<color/=#ffe075>ปรับปรุงการประเมินของลูกสาวที่มีต่อพ่อ</color> โดยการพูดคุยกับผู้คนในเมืองและการตัดสินใจอย่างชาญฉลาด \nอัตลักษณ์ของพ่อที่แตกต่างกันจะส่งผลต่อเกณฑ์การให้คะแนน! \nหากทำได้ดี จะได้รับรางวัลในงานเทศกาลนกน้อยในเดือนมิถุนายน
+May has 4 basic attributes: <color\=#ff4d42>STR</color>, <color\=#80ff6b>INT</color>, <color\=#ffe075>EMO</color>, and <color\=#3767ff>IMG </color>. \nBy improving these basic attributes, May can <color\=#ffe075>complete courses faster</color>. \n Ways to improve them include taking classes, asking people for advice, food, books, and alchemy.=เมย์มีคุณลักษณะพื้นฐาน 4 อย่าง: <color\=#ff4d42>พละกำลัง (STR)</color>, <color\=#80ff6b>สติปัญญา (INT)</color>, <color\=#ffe075>อารมณ์ (EMO)</color>, และ <color\=#3767ff>จินตนาการ (IMG)</color> \nโดยการปรับปรุงคุณลักษณะพื้นฐานเหล่านี้ เมย์จะสามารถ <color\=#ffe075>เรียนหลักสูตรต่างๆ ได้เร็วขึ้น</color> \nวิธีในการปรับปรุงคุณลักษณะเหล่านี้ได้แก่ การเข้าเรียน การขอคำแนะนำจากคนอื่น อาหาร หนังสือ และการเล่นแร่แปรธาตุ
+There are 10 levels of basic attributes, and each time you upgrade one, May will receive <color\=#ffe075>1 talent point</color>. \nTalent points can be used to improve combat skills, life skills and social skills.=ทุกครั้งที่อัพเกรดคุณลักษณะพื้นฐาน 10 ระดับเมย์จะได้รับ 1 แต้มความสามารถ\nคะแนนความสามารถสามารถใช้เพื่อพัฒนาทักษะการต่อสู้ทักษะชีวิตและทักษะทางสังคม
+May has 3 core attributes: <color\=#ff4d42>Stamina</color>, <color\=#80ff91>Mind</color>, and <color\=#c688ff>Charisma</color>. \nMany of the rewards gained from activities are related to May's core attributes. \nWays to improve them include: completing courses, buying master classes, food, books, and clothing.=เมย์มีคุณลักษณะหลัก 3 อย่าง: <color/=#ff4d42>ความแข็งแกร่ง (Stamina)</color>, <color/=#80ff91>จิตใจ (Mind)</color>, และ <color/=#c688ff>ความสามารถพิเศษ (Charisma)</color> \nรางวัลหลายอย่างที่ได้จากกิจกรรมต่างๆ จะเกี่ยวข้องกับคุณลักษณะหลักของเมย์ \nวิธีในการปรับปรุงคุณลักษณะเหล่านี้ได้แก่ การเรียนหลักสูตรต่างๆ ให้สำเร็จ การซื้อหลักสูตรชั้นสูง อาหาร หนังสือ และเสื้อผ้า
+5 classes are available per turn. \nEach course has a recommended <color\=#ffe075>optimal attribute</color>. The more May's base attribute matches the optimal attribute, the greater the <color\=#ffe075>learning progress</color> gained per class.=มีหลักสูตรเรียน 5 หลักสูตรต่อเทิร์น \nแต่ละหลักสูตรจะมี <color\=#ffe075>คุณลักษณะที่เหมาะสม</color> แนะนำ ยิ่งคุณลักษณะพื้นฐานของเมย์ตรงกับคุณลักษณะที่เหมาะสมมากเท่าไหร่ ความก้าวหน้าในการเรียนรู้ <color\=#ffe075>จะยิ่งมากขึ้น</color> ต่อหลักสูตรเรียน
+Activities such as exploring, horse racing, theater performances and winning competitions will all increase May's <color\=#ffe075>Fame</color>. There is also a <color\=#ffe075>Wise Man</color> at the altar, where you can spend Fame points to improve your course progress.=กิจกรรมต่างๆ เช่น การสำรวจ การแข่งม้า การแสดงละคร และการชนะการแข่งขัน จะเพิ่ม <color\=#ffe075>ชื่อเสียง (Fame)</color> ของเมย์ นอกจากนี้ยังมี <color\=#ffe075>นักปราชญ์ (Wise Man)</color> ที่แท่นบูชา ซึ่งคุณสามารถใช้คะแนนชื่อเสียงเพื่อเพิ่มความก้าวหน้าในหลักสูตรเรียนได้
+There are 3 lords to choose from in the game. Once you select a lord, you will see a <color\=#ffe075>Stronghold</color> near the Forgotten Forest. You can interact with your lord by going inside.=มีขุนนาง 3 ท่านให้เลือกในเกม หลังจากที่คุณเลือกขุนนางผู้นำแล้ว คุณจะเห็น <color\=#ffe075>ป้อมปราการ</color> ใกล้ป่าที่ถูกลืม คุณสามารถโต้ตอบกับขุนนางประจำตัวของคุณได้โดยการเข้าไปภายใน
+Different lords will issue different types of quests for May, and you will be rewarded with knight experience and gold after completing the corresponding quests.=ขุนนางแต่ละท่านจะมอบภารกิจที่เหมาะกับเมย์ และหลังจากที่ทำภารกิจที่เกี่ยวข้องเสร็จสิ้นแล้ว คุณจะได้รับประสบการณ์อัศวินและทองคำเป็นรางวัล
+You can attend the Garden Ball in the square, then you will meet higher characters in later locations. \nYou can choose from 15 topics to chat with ball attendees. The level of the topics depends on May's life experience on each topic. Higher topic scores will affect the overall experience of the party.=คุณสามารถเข้าร่วมงาน การ์เด้นบอล ในจัตุรัส จากนั้นคุณจะพบกับขุนนางระดับสูงในสถานที่ต่อไป
+คุณสามารถเลือกจาก 15 หัวข้อเพื่อสนทนากับผู้เข้าร่วมงานบอล ระดับของหัวข้อในแต่ละหัวข้อขึ้นอยู่กับประสบการณ์ชีวิตของเมย์ คะแนนหัวข้อที่สูงขึ้นจะมีผลต่อประสบการณ์รวมของงานเลี้ยง
+May has 5 combat attributes: <color\=#ffe075>HP, Attack, Defense, Dodge, and CRIT Rate</color>. \nWays to improve them include: upgrading battle level, changing weapons, food, and mysterious fruit.=เมย์มีทั้งหมด 5 คุณสมบัติการต่อสู้: <color\=#ffe075>เลือด, โจมตี, ป้องกัน, หลบหลีก, และอัตรา CRIT</color> \nวิธีการเพิ่มคุณสมบัติได้แก่: อัพเกรดระดับเลเวล, เปลี่ยนอาวุธ, อาหาร, และผลไม้ลึกลับ
+Battles are divided into player rounds and enemy rounds. During the player's turn, the player receives 2 energy points per turn, which can be used for skills and attacks. \nEach combat skill has a cooldown round, and during the cooldown round, using the skill will consume more energy. \n2 energy points can be spent each round on shields, each energy point will resist 25% of an enemy's attack.=การต่อสู้ถูกแบ่งเป็นรอบของผู้เล่นและรอบของศัตรู ในรอบของผู้เล่น ผู้เล่นจะได้รับพลังงาน 2 คะแนนต่อรอบ ซึ่งสามารถใช้สำหรับทักษะและการโจมตีได้ \nทุกทักษะการต่อสู้จะมีคูลดาวน์การใช้งาน และถ้ายังไม่หมดคูลดาวน์การใช้งานการใช้ทักษะจะทำให้ใช้พลังงานมากขึ้น \n2 คะแนนพลังงานสามารถใช้ได้ในรอบสามารถใช้การป้องกัน แต่ละคะแนนพลังงานจะต้านทานการโจมตีของศัตรูได้ 25% ของการโจมตี
+After becoming friends with villagers, you can invite them to become adventure partners. Each villager has different weapons and combat skills, allowing for different team combinations for different adventure locations.=หลังจากเป็นเพื่อนกับชาวเมือง คุณสามารถเชิญชวนพวกเขามาเป็นเพื่อนร่วมผจญภัยได้\nแต่ละคนจะมีอาวุธและทักษะในการต่อสู้ที่แตกต่างกัน ทำให้สามารถสร้างทีมที่แตกต่างกันสำหรับลงสถานที่ผจญภัยที่แตกต่างกัน
+New combat skills will be available when combat level reaches 2, 5, 10 and 15. \nVillagers will gain new combat skills when they are invited to become adventure partners and their combat level reaches level 1 and level 4 in battle.=ทักษะการต่อสู้ใหม่จะพร้อมใช้งานเมื่อระดับการต่อสู้ถึง 2, 5, 10 และ 15 \nชาวเมืองจะได้รับทักษะการต่อสู้ใหม่เมื่อพวกเขาได้รับเชิญให้เป็นพันธมิตรในการผจญภัยและระดับการต่อสู้ของพวกเขาถึงระดับ 1 และระดับ 4 ในการต่อสู้
+At random event locations, different random events will be encountered. \nSome events will test May's core attributes, others require specific items to trigger. After completing each event, May will gain rewards.=ในตำแหน่งเหตุการณ์แบบสุ่มจะพบเหตุการณ์สุ่มที่แตกต่างกัน\nเหตุการณ์บางอย่างจะทดสอบคุณลักษณะหลักของเมย์ และกิจกรรมอื่นๆ ต้องการรายการเฉพาะเพื่อกระตุ้น\nหลังจากเสร็จสิ้นแต่ละเหตุการณ์อาจได้รับรางวัล
+Players have 3 patience points per turn, and 1 patience point will be consumed for specific interaction content with villagers. \nSeek advice: Gain random attribute values. \nChallenge - Duel: Decide the winner by combat attributes. \nChallenge - Debate: Win or lose by brains, subject scores and eloquence. \nGift Giving: The amount of goodwill you can gain depends on the gift level, each villager has their own favorite items.=ผู้เล่นมีแต้มความอดทน 3 แต้มต่อเทิร์น และแต้มความอดทน 1 แต้มจะถูกใช้สำหรับการโต้ตอบเฉพาะกับชาวเมือง \nขอคำแนะนำ: รับค่าคุณลักษณะแบบสุ่ม \nความท้าทาย - ดวล: ตัดสินผู้ชนะตามคุณสมบัติการต่อสู้ \nความท้าทาย - การโต้วาที: ชนะหรือแพ้ด้วยสมอง คะแนนของวิชา และวาจาไพเราะ \nการให้ของขวัญ: จำนวนความปรารถนาดีที่คุณจะได้รับขึ้นอยู่กับระดับของขวัญ ชาวเมืองแต่ละคนจะมีสิ่งของโปรดเป็นของตัวเอง
+When May performs an action within the scene, if there is a villager who has reached the <color\=#ffe075>aquaintance</color> relationship level nearby, they will evaluate May's behavior. \nIf May is doing something they <color\=#ffe075>like</color>, it can increase their favorability.=เมื่อใดที่เมย์ดำเนินการในฉากหากมีชาวเมืองที่มาถึง <color\=#ffe075>ความรู้จัก</color> ระดับความสัมพันธ์ใกล้เคียงพวกเขาจะประเมินพฤติกรรมของเมย์\nถ้าอาจจะมีอะไรบางอย่างพวกเขา <color\=#ffe075>ชอบ</color>มันสามารถเพิ่มความพึงพอใจของพวกเขาได้
+After reaching a higher relationship level with villagers, you will receive letters from them, and each letter will come with a special book. \nMay's chosen reply will affect their favorability with the character.=หลังจากถึงระดับความสัมพันธ์ที่สูงขึ้นกับชาวเมืองคุณจะได้รับจดหมายจากพวกเขาและจดหมายแต่ละฉบับจะมาพร้อมกับหนังสือเล่มพิเศษ\nคำตอบที่เลือกของเมย์จะส่งผลกระทบต่อความพึงพอใจกับตัวละคร
+As May's farming level increases, the number of items obtained will also increase. \n After sowing, the crop growth rate will automatically increase by 50% every month. Crop growth can be instantly increased by using fertilizer or stamina.=เมื่อระดับการทำฟาร์มของเมย์เพิ่มขึ้นจำนวนรายการที่ได้รับก็จะเพิ่มขึ้นเช่นกัน\nหลังจากหว่านอัตราการเติบโตของพืชจะเพิ่มขึ้นโดยอัตโนมัติ 50% ทุกเดือน\nการเจริญเติบโตของพืชสามารถเพิ่มขึ้นได้ทันทีโดยใช้ปุ๋ยหรือพลังงาน
+As May's cooking level increases, there will be a higher probability of getting double dishes and unlocking more recipes. \nCooked food can be used to improve stamina, mood, and various attributes. Dishes can also be given to villagers as gifts.=เมื่อระดับการปรุงอาหารของเมย์เพิ่มขึ้นจะมีความน่าจะเป็นที่สูงขึ้นในการได้รับอาหารสองเท่าและปลดล็อคสูตรเพิ่มเติม\nอาหารปรุงสุกสามารถใช้เพื่อปรับปรุงพลังงาน อารมณ์และคุณลักษณะต่าง ๆ\nนอกจากนี้ยังสามารถมอบอาหารให้กับชาวเมืองเป็นของขวัญ
+Dining in the restaurant can restore May's stamina and mood, each dish can be ordered once per turn. \nIf your stamina is already full, it's better to find something to consume it first.=การรับประทานอาหารในร้านอาหารสามารถฟื้นฟูพลังงานและอารมณ์ของเมย์แต่ละจานสามารถสั่งซื้อได้หนึ่งครั้งต่อเทิร์น\nหากพลังงานของคุณเต็มแล้วให้หาบางสิ่งบางอย่างทำก่อนที่จะบริโภค
+Wild horses can be caught after August in summer, and different animals can be caught on different maps and bushes. \nDifferent actions will reduce the vigilance value of the animal, the value that will be reduced depends on the intelligence or strength of the animal. \nAnimals are divided into two types: docile and violent. Using force against violent animals will increase their alert value, while docile animals will respond differently. \nAnimal attacks will reduce May's patience each round, if patience drops to 0, the taming will fail.=ม้าป่าสามารถถูกจับได้หลังจากเดือนสิงหาคมในฤดูร้อนและสัตว์ต่างๆ สามารถจับได้บนแผนที่และพุ่มไม้ที่แตกต่างกัน\nการกระทำที่แตกต่างกันจะลดค่าความระมัดระวังของสัตว์ค่าที่จะลดลงขึ้นอยู่กับความฉลาดหรือความแข็งแกร่งของสัตว์\nสัตว์แบ่งออกเป็นสองประเภท: เชื่องและดุร้าย\nการใช้กำลังกับสัตว์ที่มีความดุร้ายจะภัยอันตรายของพวกเขาในขณะที่สัตว์ที่เชื่องจะตอบสนองแตกต่างกัน\nการโจมตีจากสัตว์จะลดความอดทนของเมย์ในแต่ละรอบหากความอดทนลดลงเหลือ 0 การจับจะล้มเหลว
+Prev=ก่อนหน้า
+Horses in the stables will provide horse milk, gold or items each turn, and will also boost May's combat attributes by a small amount.=ม้าในคอกม้าจะให้นมม้าทองคำหรือสิ่งของในแต่ละเทิร์นและจะเพิ่มคุณลักษณะการต่อสู้ของเมย์เป็นจำนวนเล็กน้อย
+After taming a horse, May can participate in horse racing at the port. \nThe racetrack holds on odd-numbered months and beauty pageants on even-numbered months. After winning a race or contest, you will get prestige and rewards.=หลังจากทำให้เชื่องม้าอาจมีส่วนร่วมในการแข่งม้าที่ท่าเรือ\nสนามแข่งมีในเดือนที่มีเลขคี่และการประกวดความงามในเดือนที่มีเลขคู่\nหลังจากชนะการแข่งขันคุณจะได้รับรางวัล
+Each horse has 4 attributes: Base Speed, Acceleration, Acceleration Times, and Appearance. A random horse attribute can be improved by purchasing a care tool in the Weapon store.=ม้าแต่ละตัวมีคุณสมบัติ 4 อย่าง: ความเร็วพื้นฐาน การเร่ง ความเร็วเวลาเร่ง และรูปลักษณ์\nคุณลักษณะของม้าแบบสุ่มสามารถปรับปรุงได้โดยการซื้อเครื่องมือดูแลในร้านขายอาวุธ
+The Alchemy Workshop offers 6 new alchemy items every 6 months, and the success rate of each item depends on May's Mind. There are three types of alchemical items: magic potions, furniture, and weapons. Magic potions can be consumed to improve attributes or given to others, furniture can be placed in the home to improve basic attributes, and weapons can be used to improve combat attributes.=ร้านเล่นแร่แปรธาตุเสนอรายการใหม่ 6 รายการทุก 6 เดือนและอัตราความสำเร็จของแต่ละรายการขึ้นอยู่กับจิตใจของเมย์\nมีสามประเภทของรายการเล่นแร่แปรธาตุ: ยาวิเศษ เฟอร์นิเจอร์และอาวุธ\nยาวิเศษสามารถใช้เพื่อปรับปรุงคุณลักษณะหรือมอบให้กับผู้อื่น สามารถวางเฟอร์นิเจอร์ในบ้านเพื่อปรับปรุงคุณลักษณะพื้นฐาน และสามารถใช้อาวุธเพื่อปรับปรุงคุณลักษณะการต่อสู้
+Working at the baths in the central square can earn May some extra money, but will cost stamina. \nUpgrading the total job level will unlock rewards and more advanced job types. \nEach job type has a Charisma or Mind minimum threshold. Working the same job type multiple times will raise the job level. \nSome of the jobs will raise May's Admirers or Darkness, so manage it carefully.=การทำงานที่โรงอาบน้ำในจัตุรัสกลางเมืองสามารถทำให้เมย์ได้เงินพิเศษ แต่จะใช้พลังงานด้วย \nการเพิ่มระดับงานทั้งหมดจะปลดล็อกรางวัลและประเภทงานขั้นสูงขึ้น \nแต่ละประเภทงานจะมีเกณฑ์ขั้นต่ำของความสามารถพิเศษหรือจิตใจ การทำงานในประเภทงานเดียวกันหลายครั้งจะเพิ่มระดับงาน \nบางงานจะเพิ่มผู้ชื่นชม หรือความมืดในจิตใจ ของเมย์ ดังนั้นต้องจัดการอย่างรอบคอบ
+May can play 2 dice games in the square each turn, and each year will bring stronger opponents than the previous year. \nIf May's dice level is too low, go to other villagers to duel and win stronger dice from them.=เมย์สามารถเล่นเกมทอยลูกเต๋า 2 เกมในจัตุรัสกลางเมืองในแต่ละเทิร์น และแต่ละปีจะมีคู่ต่อสู้ที่แข็งแกร่งขึ้นกว่าปีก่อนหน้า \nถ้าระดับการทอยลูกเต๋าของเมย์ต่ำเกินไป ให้ไปท้าดวลกับชาวเมืองคนอื่นๆ และชนะพวกเขาเพื่อรับลูกเต๋าที่แข็งแกร่งขึ้น
+Participating in activities such as dance, theater performance and a part-time job will gain May admirers. The number of admirers will also increase as core attributes are improved. The number of love letters received each month will also increase as the number of admirers increases. \nReplying to love letters will consume Sense, and different types of love letters will give different rewards.=การเข้าร่วมกิจกรรมต่างๆ เช่น การเต้น การแสดงละคร และการทำงานพาร์ทไทม์ จะทำให้เมย์มีผู้ชื่นชมเพิ่มขึ้น จำนวนผู้ชื่นชมจะเพิ่มขึ้นตามการปรับปรุงคุณลักษณะหลัก จำนวนจดหมายรักที่ได้รับในแต่ละเดือนจะเพิ่มขึ้นตามจำนวนผู้ชื่นชมที่เพิ่มขึ้น \nการตอบจดหมายรักจะใช้เซนส์ (Sense) และจดหมายรักประเภทต่างๆ จะให้รางวัลที่แตกต่างกัน
+There are more than a dozen outfits to collect in the game, some outfits can enhance May's attributes. \nRare clothing can only be obtained through special means, some of which cannot be accessed until winter.=มีเสื้อผ้ามากกว่าหนึ่งตัวในเกม บางเสื้อผ้าสามารถเสริมสมบัติของเมย์ได้ \nเสื้อผ้าหายากสามารถได้มาจากทางพิเศษ บางอย่างไม่สามารถใส่ได้จนกว่าจะถึงฤดูหนาว
+Each year, May will have 3 opportunities to purchase after-school practice. \nAfter-school practice sessions have more difficult requirements, but May will also gain greater core attributes upon completion.=ในแต่ละปี เมย์จะมีโอกาส 3 ครั้งในการซื้อการฝึกปฏิบัติหลังเลิกเรียน \nการฝึกปฏิบัติหลังเลิกเรียนมีข้อกำหนดที่ยากขึ้น แต่เมย์จะได้รับคุณลักษณะหลักที่สูงขึ้นเมื่อสำเร็จ
+Answer the most arithmetic questions correctly in the time allotted! \n<color\=#ffe075>Right click: confirm option \n Left click: toggle option</color>=ตอบคำถามเรื่องคณิตศาสตร์ให้ถูกต้องมากที่สุดภายในเวลาที่กำหนด! \nคลิกขวา: ยืนยันตัวเลือก \nคลิกซ้าย: เปลี่ยนตัวเลือก
+May can travel to different locations in Volcano Country using the <color\=#ffe075>map</color>. \nThe number of locations that can be visited will increase as time goes on. \nPlease note that May will not be able to go outside during the annual <color\=#ffe075>June</color> Birdie Festival and the <color\=#ffe075>October</color> Volcano Festival.=เมย์สามารถเดินทางไปยังสถานที่ต่างๆ ในอาณาจักรภูผาเพลิงโดยใช้แผนที่ \nจำนวนสถานที่ที่สามารถเยี่ยมชมได้จะเพิ่มขึ้นตามกาลเวลา \nโปรดทราบว่าเมย์จะไม่สามารถออกไปข้างนอกได้ในช่วงเทศกาลนกน้อยประจำปีในเดือนมิถุนายนและเทศกาลภูผาเพลิงในเดือนตุลาคม
+Some options will increase in Proficiency as they are used more often.=บางตัวเลือกจะเพิ่มความเชี่ยวชาญเมื่อถูกใช้บ่อยขึ้น
+Spring Jan.=ฤดูใบไม้ผลิ มกราคม
+Are you sure to return the title?\n<size\=24> (unsaved progress will be lost)</size>=คุณแน่ใจที่จะกลับไปที่หน้าหลักหรือไม่?\n (ความคืบหน้าที่ยังไม่ได้บันทึกจะหายไป)
+Cancel=ยกเลิก
+INT+1\nEMO+1\n=INT+1\nEMO+1\n
+EMO+1=EMO+1
+INT+1=INT+1
+Go out and play=ออกไปเล่นข้างนอก
+Play with Mei=เล่นกับเหมย
+Mood+10\nAffection+3\n\n<size\=18>current avorability:1</size>=อารมณ์+10\nความรัก+3\n\nความพอใจปัจจุบัน:1
+Favorability=ความชื่นชอบ
+This is your favorability level with May. When the level reaches 5 or 6, you will receive a special gift from your daughter at the ending.=นี่คือระดับความนิยมของคุณกับเมย์\nเมื่อระดับถึง 5 หรือ 6 คุณจะได้รับของขวัญพิเศษจากลูกสาวของคุณในตอนท้าย
+Subject Score=คะแนนของเรื่อง
+Adorer:=ผู้ที่ชื่นชอบ:
+Total Coin:=เหรียญทั้งหมด:
+\nAccumulated Fame:=\nชื่อเสียงสะสม:
+Darkness:=ความมืดมิด:
+Blood\nAge\nHeight\nBirthday\nIdentity="เลือด\nอายุ\nส่วนสูง\nวันเกิด\nเอกลักษณ์"
+Data=ข้อมูล
+Friends=เพื่อน
+\n0 Pts\n0 Pts\n0 Pts\n0 Pts=\n0 Pts\n0 Pts\n0 Pts\n0 Pts
+\n5 Pts\n0 Pts\n0 Pts\n0 Pts=\n5 Pts\n0 Pts\n0 Pts\n0 Pts
+May · Fryberg=เมย์ · ฟรายเบิร์ก
+Archery\nBeliefs\n<size\=16>Literature</size>\nTone=การยิงธนู\nความเชื่อ\nวรรณกรรม\nเสียง
+B\n5\n50 cm\n12/24\nStudent=B\n5\n50 ซม.\n12/24\nนักเรียน
+\nE\nE\nE\nE=\nE\nE\nE\nE
+Sword\nScience\nRitual\nArt="ดาบ\nวิทยาศาสตร์\nพิธีกรรม\nศิลปะ"
+Profile=ประวัติโดยย่อ
+Fulfill the heart, clear all 3 events and make the residence at 1st place to gain their romance ending!=เติมเต็มหัวใจให้ชัดเจนทั้ง 3 เหตุการณ์และสร้างที่อยู่อาศัยในสถานที่ที่ 1 เพื่อให้ได้มาซึ่งความรักในตอนจบ!
+You will receive <color\=#ffe075>12 course points</color> for each scheduled course. After completed <color\=#ffe075>After School Practicum Project</color> Course, you will receive extra <color\=#ffe075>100 course points</color>.=คุณจะได้รับ <color\=#ffe075>12 คะแนนหลักสูตร</color> สำหรับแต่ละหลักสูตรที่กำหนดไว้ หลังจากจบหลักสูตร <color\=#ffe075>โครงการฝึกปฏิบัติหลังเลิกเรียน</color> คุณจะได้รับ <color\=#ffe075>100 คะแนนหลักสูตร</color> เพิ่มเติม
+Grades=เกรด
+Many endings require May to achieve a certain subject score, so if she wants better career prospects in a certain field, she has to take more courses in that specialty.=ฉากจบหลายอย่างอาจจะต้องการให้ทำคะแนนในวิชาบางวิชาให้ได้ตามเกณฑ์ ดังนั้นถ้าเธอต้องการมีโอกาสทางอาชีพที่ดีกว่าในสาขาใดสาขาหนึ่ง เธอจะต้องลงเรียนหลักสูตรในสาขานั้นๆ เพิ่มเติม
+In addition, some of the higher level career endings require higher cumulative Fame to unlock.=นอกจากนี้ ฉากจบระดับสูงบางอาชีพยังต้องการความมีชื่อเสียงสะสมที่สูงขึ้นเพื่อปลดล็อค
+In addition, there are many <color\=#ffe075>career endings</color> that depend on May's darkness, and special endings may be triggered if the darkness is above 100.=นอกจากนี้ยังมี <color\=#ffe075>จุดจบ</color> มากมายที่ขึ้นอยู่กับความมืดในจิตใจของเมย์ และอาจมีฉากจบพิเศษที่ถูกกระตุ้นหากความมืดมิดในจิตใจเกิน 100
+An astrological lamp with a wick filled with fine stone powder that glows faintly at night.=โคมไฟดาราศาสตร์ที่มีไส้ตะเกียงบรรจุด้วยผงหินละเอียดซึ่งเรืองแสงเล็กน้อยในยามค่ำคืน
+It holds May's favorite picture books and toys inside.=ข้างในมีหนังสือภาพและของเล่นที่เมย์ชื่นชอบ
+You can't use it yet.=คุณยังไม่สามารถใช้มันได้ในขณะนี้
+Consume=บริโภค
+STR+<size\=26>40</size>=STR+<size\=26>40</size>
+daughter's goodwill+5=ความประทับใจของลูกสาว+5
+Morning exercises=ออกกำลังกายตอนเช้า
+Affection=ความรักใคร่
+STR + <color\=#ffc558>40</color>=STR + <color\=#ffc558>40</color>
+Morning exercises......=ออกกำลังกายตอนเช้า......
+May is in good spirits now!=ตอนนี้เมย์อารมณ์ดีมาก!
+Hehe, papa's the best.=ฮิฮิป่าป๊าดีที่สุด
+It's morning, May has to do morning exercises!=เช้าแล้ว เมย์จะต้องออกกำลังกายตอนเช้า!
+May isn't afraid of anything...... hehe.=เมย์ไม่กลัวอะไรเลย...... ฮิฮิ
+Praise May=สรรเสริญเยินยอ เมย์
+Things you're afraid about=สิ่งที่คุณกลัว
+Hmm... there isn't really a big monster under the bed, is there...?=อืม... ไม่มีสัตว์ประหลาดตัวใหญ่อยู่ใต้เตียงจริงๆ ใช่ไหม...?
+Affection 1 increased\nMood 2 increased\nPerception 3 increased=เพิ่มความรัก 1\nเพิ่มอารมณ์ 2\nเพิ่มการรับรู้ 3
+There are tonnes of treasures hiding in the sea beneath the volcano.=มีของมากมายซ่อนอยู่ในทะเลภายใต้ภูเขาไฟ
+How did papa know?=ป่าป๊ารู้ได้ยังไง?
+Ah, it's the morning, May will do some morning exercise!=อ้า, เช้าแล้ว เมย์จะไปออกกำลังกายตอนเช้า!
+I like papa, so papa has to like me!=หนูชอบป่าป๊า ดังนั้นป่าป๊าก็ต้องชอบหนู!
+Oh......=โอ้......
+Affection 1 increased\nDarkness 3 increased\nPerception 3 increased=เพิ่มความรัก 1\nเพิ่มความมืด 3\nเพิ่มการรับรู้ 3
+Papa, annoying.=ป่าป๊า..น่า..รำคาญ
+Anyway, it's the morning, May will do some morning exercise!=อย่างไรก็ตาม ตอนเช้านี้ เมย์จะต้องออกกำลังกายในตอนเช้า!
+About the future=เกี่ยวกับอนาคต
+May has a lot of dreams!=เมย์ มีความฝันมากมาย!
+Affection 1 increased\nMood 6 increased\nPerception 3 increased=เพิ่มความรัก 1\nเพิ่มอารมณ์ 6\nเพิ่มการรับรู้ 3
+N-No!=อ-อย่า!
+May is a little girl who loves to sing!=เมย์เป็นเด็กสาวที่ชอบร้องเพลง!
+Favorite season=ฤดู favorite
+Be more serious=จริงจังกว่านี้หน่อย
+I love spring! There are so many beautiful little flowers!=หนูรักฤดูใบไม้ผลิ! มีดอกไม้เล็กๆ สวยงามมากมาย!
+Well...... I don't want to hear it......=ไม่ดี...... หนูไม่อยากได้ยินมัน......
+Affection 1 increased\nMood 3 increased\nPerception 3 increased=เพิ่มความรัก 1\nเพิ่มอารมณ์ 3\nเพิ่มการรับรู้ 3
+What's good to eat today?=วันนี้กินอะไรดี?
+Praise May for a job well done=ชมเมย์สำหรับงานที่ทำได้ดี
+May can do better!=เมย์ทำได้ดีกว่านี้!
+Affection 1 increased\nMood 5 increased\nPerception 3 increased=เพิ่มความรัก 1\nเพิ่มอารมณ์ 5\nเพิ่มการรับรู้ 3
+When the day is over, I can sleep again!=เมื่อหมดวัน ฉันก็จะได้นอนอีกครั้ง!
+MayI'm full of strength now!=เมย์ ตอนนี้หนูเต็มเปี่ยมไปด้วยพลัง!
+The best thing to do is walk with papa!=สิ่งที่ดีที่สุดคือการเดินเล่นกับป่าป๊า!
+May wants to grow up! \nThen I can play with papa!=เมย์อยากโตขึ้น!\nแล้วจะได้เล่นกับปะป๊า
+I dreamed that I was playing at the lake with my papa. There was a large green pasture!=หนูฝันว่ากำลังเล่นที่ทะเลสาบกับป่าป๊า\nมีทุ่งหญ้าสีเขียวใหญ่มั่กๆ!
